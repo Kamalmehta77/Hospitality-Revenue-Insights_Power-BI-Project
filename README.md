@@ -1,1 +1,1 @@
-# Hospitality-Revenue-Insights_Power BI Project
+# Hospitality Domain_Revenue-Insights_Power BI Project
